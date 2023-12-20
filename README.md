@@ -35,3 +35,5 @@ Data Visualization - PowerBI
 1. Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
 2. Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
 
+## -Dashboard
+![Screenshot 2023-12-20 170803](https://github.com/Chetan0904/HR-Dashboard-MYSQL-PowerBI/assets/137276849/d0d81b62-4e26-466d-bc6b-cdfcb4a12852)
